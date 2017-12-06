@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c389ef8b-9e75-41fa-a5d1-4550622d2a51" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../HackerRankSolutions/src/MonkChoiceOfNumbers.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../HackerRankSolutions/src/MicroAndBinaryStrings.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../HackerRankSolutions/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../HackerRankSolutions/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/../HackerRankSolutions/out/" />
@@ -76,7 +76,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MonkChoiceOfNumbers.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MonkChoiceOfNumbers.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../HackerRankSolutions/src/MonkChoiceOfNumbers.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
@@ -85,6 +85,16 @@
                 <element signature="imports" expanded="true" />
                 <element signature="e#513#522#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MicroAndBinaryStrings.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../HackerRankSolutions/src/MicroAndBinaryStrings.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="51" lean-forward="false" selection-start-line="0" selection-start-column="51" selection-end-line="0" selection-end-column="51" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -116,6 +126,7 @@
         <option value="$PROJECT_DIR$/../HackerRankSolutions/src/MonkAndHisFather.java" />
         <option value="$PROJECT_DIR$/../HackerRankSolutions/src/MonkAndHisFriend.java" />
         <option value="$PROJECT_DIR$/../HackerRankSolutions/src/MonkChoiceOfNumbers.java" />
+        <option value="$PROJECT_DIR$/../HackerRankSolutions/src/MicroAndBinaryStrings.java" />
       </list>
     </option>
   </component>
@@ -185,7 +196,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MonkChoiceOfNumbers">
+  <component name="RunManager" selected="Application.MicroAndBinaryStrings">
     <configuration default="false" name="MonkAndBoxOfChocolates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="MonkAndBoxOfChocolates" />
@@ -234,6 +245,21 @@
     <configuration default="false" name="MonkChoiceOfNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="MonkChoiceOfNumbers" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../HackerRankSolutions" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="HackerRankSolutions" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="MicroAndBinaryStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="MicroAndBinaryStrings" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../HackerRankSolutions" />
@@ -450,18 +476,20 @@
       <listeners />
       <method />
     </configuration>
-    <list size="4">
+    <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Application.MonkAndBoxOfChocolates" />
       <item index="1" class="java.lang.String" itemvalue="Application.SherlockAndXOR" />
       <item index="2" class="java.lang.String" itemvalue="Application.MonkAndHisFriend" />
       <item index="3" class="java.lang.String" itemvalue="Application.MonkChoiceOfNumbers" />
+      <item index="4" class="java.lang.String" itemvalue="Application.MicroAndBinaryStrings" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Application.MonkChoiceOfNumbers" />
-        <item index="1" class="java.lang.String" itemvalue="Application.MonkAndHisFriend" />
-        <item index="2" class="java.lang.String" itemvalue="Application.SherlockAndXOR" />
-        <item index="3" class="java.lang.String" itemvalue="Application.MonkAndBoxOfChocolates" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.MicroAndBinaryStrings" />
+        <item index="1" class="java.lang.String" itemvalue="Application.MonkChoiceOfNumbers" />
+        <item index="2" class="java.lang.String" itemvalue="Application.MonkAndHisFriend" />
+        <item index="3" class="java.lang.String" itemvalue="Application.SherlockAndXOR" />
+        <item index="4" class="java.lang.String" itemvalue="Application.MonkAndBoxOfChocolates" />
       </list>
     </recent_temporary>
   </component>
@@ -521,7 +549,14 @@
       <option name="project" value="LOCAL" />
       <updated>1512583197522</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Added 1 more Bit manipulating problem.&#10;Added Monk CHoice of number">
+      <created>1512584249437</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1512584249437</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -566,7 +601,8 @@
     <MESSAGE value="Added 1 Bit manipulating problem." />
     <MESSAGE value="Added 1 more Bit manipulating problem." />
     <MESSAGE value="Added 1 more Bit manipulating problem.&#10;Added Monk and his hriend problem." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added 1 more Bit manipulating problem.&#10;Added Monk and his hriend problem." />
+    <MESSAGE value="Added 1 more Bit manipulating problem.&#10;Added Monk CHoice of number" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added 1 more Bit manipulating problem.&#10;Added Monk CHoice of number" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -697,6 +733,14 @@
             <element signature="imports" expanded="true" />
             <element signature="e#513#522#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../HackerRankSolutions/src/MicroAndBinaryStrings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="51" lean-forward="false" selection-start-line="0" selection-start-column="51" selection-end-line="0" selection-end-column="51" />
+          <folding />
         </state>
       </provider>
     </entry>
