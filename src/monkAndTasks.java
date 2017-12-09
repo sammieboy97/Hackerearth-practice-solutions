@@ -1,4 +1,4 @@
-//Monk and Tasks bit manipulation problem. Do in C++ as it is fast there.!
+//Monk and Tasks bit manipulation problem.!
 import java.io.PrintWriter; //PrintWriter is used here as some inputs are huge.
 import java.util.Scanner;
 

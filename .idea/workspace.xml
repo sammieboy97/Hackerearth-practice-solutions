@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c389ef8b-9e75-41fa-a5d1-4550622d2a51" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../HackerRankSolutions/src/monkAndTasks.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../HackerRankSolutions/src/sumOfNumbers9.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../HackerRankSolutions/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../HackerRankSolutions/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../HackerRankSolutions/src/monkAndTasks.java" afterPath="$PROJECT_DIR$/../HackerRankSolutions/src/monkAndTasks.java" />
     </list>
     <ignored path="$PROJECT_DIR$/../HackerRankSolutions/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,16 +20,6 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MonkAndBoxOfChocolates.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../HackerRankSolutions/src/MonkAndBoxOfChocolates.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="40" lean-forward="false" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="powerOf2.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../HackerRankSolutions/src/powerOf2.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -113,14 +104,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="monkAndTasks.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="monkAndTasks.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../HackerRankSolutions/src/monkAndTasks.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="18" column="48" lean-forward="true" selection-start-line="18" selection-start-column="48" selection-end-line="18" selection-end-column="48" />
+            <state relative-caret-position="-102">
+              <caret line="0" column="43" lean-forward="false" selection-start-line="0" selection-start-column="43" selection-end-line="0" selection-end-column="43" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sumOfNumbers9.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../HackerRankSolutions/src/sumOfNumbers9.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="81" lean-forward="false" selection-start-line="0" selection-start-column="81" selection-end-line="0" selection-end-column="81" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -155,6 +156,7 @@
         <option value="$PROJECT_DIR$/../HackerRankSolutions/src/MicroAndBinaryStrings.java" />
         <option value="$PROJECT_DIR$/../HackerRankSolutions/src/AishAndXOR.java" />
         <option value="$PROJECT_DIR$/../HackerRankSolutions/src/monkAndTasks.java" />
+        <option value="$PROJECT_DIR$/../HackerRankSolutions/src/sumOfNumbers9.java" />
       </list>
     </option>
   </component>
@@ -224,22 +226,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.monkAndTasks">
-    <configuration default="false" name="MonkAndHisFriend" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="MonkAndHisFriend" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../HackerRankSolutions" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="HackerRankSolutions" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.sumOfNumbers9">
     <configuration default="false" name="MonkChoiceOfNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="MonkChoiceOfNumbers" />
@@ -288,6 +275,21 @@
     <configuration default="false" name="monkAndTasks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="monkAndTasks" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../HackerRankSolutions" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="HackerRankSolutions" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="sumOfNumbers9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="sumOfNumbers9" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../HackerRankSolutions" />
@@ -505,19 +507,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.MonkAndHisFriend" />
-      <item index="1" class="java.lang.String" itemvalue="Application.MonkChoiceOfNumbers" />
-      <item index="2" class="java.lang.String" itemvalue="Application.MicroAndBinaryStrings" />
-      <item index="3" class="java.lang.String" itemvalue="Application.AishAndXOR" />
-      <item index="4" class="java.lang.String" itemvalue="Application.monkAndTasks" />
+      <item index="0" class="java.lang.String" itemvalue="Application.MonkChoiceOfNumbers" />
+      <item index="1" class="java.lang.String" itemvalue="Application.MicroAndBinaryStrings" />
+      <item index="2" class="java.lang.String" itemvalue="Application.AishAndXOR" />
+      <item index="3" class="java.lang.String" itemvalue="Application.monkAndTasks" />
+      <item index="4" class="java.lang.String" itemvalue="Application.sumOfNumbers9" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.monkAndTasks" />
-        <item index="1" class="java.lang.String" itemvalue="Application.AishAndXOR" />
-        <item index="2" class="java.lang.String" itemvalue="Application.MicroAndBinaryStrings" />
-        <item index="3" class="java.lang.String" itemvalue="Application.MonkChoiceOfNumbers" />
-        <item index="4" class="java.lang.String" itemvalue="Application.MonkAndHisFriend" />
+        <item index="0" class="java.lang.String" itemvalue="Application.sumOfNumbers9" />
+        <item index="1" class="java.lang.String" itemvalue="Application.monkAndTasks" />
+        <item index="2" class="java.lang.String" itemvalue="Application.AishAndXOR" />
+        <item index="3" class="java.lang.String" itemvalue="Application.MicroAndBinaryStrings" />
+        <item index="4" class="java.lang.String" itemvalue="Application.MonkChoiceOfNumbers" />
       </list>
     </recent_temporary>
   </component>
@@ -598,7 +600,14 @@
       <option name="project" value="LOCAL" />
       <updated>1512589410867</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Added 1 more Bit manipulating problem.">
+      <created>1512816180668</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1512816180668</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -873,11 +882,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../HackerRankSolutions/src/monkAndTasks.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="18" column="48" lean-forward="true" selection-start-line="18" selection-start-column="48" selection-end-line="18" selection-end-column="48" />
+        <state relative-caret-position="-102">
+          <caret line="0" column="43" lean-forward="false" selection-start-line="0" selection-start-column="43" selection-end-line="0" selection-end-column="43" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../HackerRankSolutions/src/sumOfNumbers9.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="81" lean-forward="false" selection-start-line="0" selection-start-column="81" selection-end-line="0" selection-end-column="81" />
+          <folding />
         </state>
       </provider>
     </entry>
