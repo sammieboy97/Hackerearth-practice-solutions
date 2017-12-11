@@ -8,7 +8,6 @@ import java.util.Scanner;
 public class monkAndTasks {
     public static void main(String args[] ) throws Exception {
         Scanner sc = new Scanner(System.in);
-        PrintWriter output = new PrintWriter(System.out);
         int t = sc.nextInt();
         while(t-- > 0){
             int n = sc.nextInt();
@@ -21,13 +20,12 @@ public class monkAndTasks {
             for (int i = 1; i <= 32; i++) {
                 for (int j = 0; j < n; j++) {
                     if(bits[j]==i){
-                        output.print(arr[j] + " ");
+                        System.out.print(arr[j] + " ");
                     }
                 }
             }
-            output.println();
+            System.out.println();
         }
-        output.flush();
     }
 }
 
