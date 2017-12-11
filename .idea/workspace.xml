@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c389ef8b-9e75-41fa-a5d1-4550622d2a51" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../HackerRankSolutions/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../HackerRankSolutions/src/StringManipulations/SumitString.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../HackerRankSolutions/src/StringManipulations/VowelPhobia.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../HackerRankSolutions/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../HackerRankSolutions/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/../HackerRankSolutions/out/" />
@@ -20,11 +19,21 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="SumitString.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SumitString.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../HackerRankSolutions/src/StringManipulations/SumitString.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="39" lean-forward="false" selection-start-line="0" selection-start-column="39" selection-end-line="0" selection-end-column="39" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="VowelPhobia.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../HackerRankSolutions/src/StringManipulations/VowelPhobia.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="56" lean-forward="false" selection-start-line="0" selection-start-column="56" selection-end-line="0" selection-end-column="56" />
               <folding />
             </state>
           </provider>
@@ -65,6 +74,7 @@
         <option value="$PROJECT_DIR$/../HackerRankSolutions/src/subsetAnd4.java" />
         <option value="$PROJECT_DIR$/../HackerRankSolutions/src/StringManipulations/CompilerVersion.java" />
         <option value="$PROJECT_DIR$/../HackerRankSolutions/src/StringManipulations/SumitString.java" />
+        <option value="$PROJECT_DIR$/../HackerRankSolutions/src/StringManipulations/VowelPhobia.java" />
       </list>
     </option>
   </component>
@@ -552,7 +562,14 @@
       <option name="project" value="LOCAL" />
       <updated>1513016288898</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Added 1 String manipulating problem.">
+      <created>1513017283289</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1513017283289</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -622,13 +639,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../HackerRankSolutions/src/monkAndTasks.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="27" column="9" lean-forward="true" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../HackerRankSolutions/src/SherlockAndXOR.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -991,6 +1001,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="39" lean-forward="false" selection-start-line="0" selection-start-column="39" selection-end-line="0" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../HackerRankSolutions/src/StringManipulations/VowelPhobia.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="56" lean-forward="false" selection-start-line="0" selection-start-column="56" selection-end-line="0" selection-end-column="56" />
           <folding />
         </state>
       </provider>
