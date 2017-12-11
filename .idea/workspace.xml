@@ -4,11 +4,10 @@
     <bookmark url="file://$PROJECT_DIR$/../HackerRankSolutions/src/AishAndXOR.java" line="49" mnemonic="9" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c389ef8b-9e75-41fa-a5d1-4550622d2a51" name="Default" comment="Added 1 String manipulating problem.">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../HackerRankSolutions/src/StringManipulations/CompilerVersion.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../HackerRankSolutions/src/subsetAnd4.java" />
+    <list default="true" id="c389ef8b-9e75-41fa-a5d1-4550622d2a51" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../HackerRankSolutions/.idea/uiDesigner.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../HackerRankSolutions/src/StringManipulations/SumitString.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../HackerRankSolutions/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../HackerRankSolutions/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../HackerRankSolutions/src/monkAndTasks.java" afterPath="$PROJECT_DIR$/../HackerRankSolutions/src/monkAndTasks.java" />
     </list>
     <ignored path="$PROJECT_DIR$/../HackerRankSolutions/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,31 +20,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="subsetAnd4.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../HackerRankSolutions/src/subsetAnd4.java">
+      <file leaf-file-name="SumitString.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../HackerRankSolutions/src/StringManipulations/SumitString.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="248">
-              <caret line="29" column="21" lean-forward="true" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="monkAndTasks.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../HackerRankSolutions/src/monkAndTasks.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="23" column="21" lean-forward="true" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CompilerVersion.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../HackerRankSolutions/src/StringManipulations/CompilerVersion.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="118">
-              <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            <state relative-caret-position="0">
+              <caret line="0" column="39" lean-forward="false" selection-start-line="0" selection-start-column="39" selection-end-line="0" selection-end-column="39" />
               <folding />
             </state>
           </provider>
@@ -85,6 +64,7 @@
         <option value="$PROJECT_DIR$/../HackerRankSolutions/src/XorAndProject.java" />
         <option value="$PROJECT_DIR$/../HackerRankSolutions/src/subsetAnd4.java" />
         <option value="$PROJECT_DIR$/../HackerRankSolutions/src/StringManipulations/CompilerVersion.java" />
+        <option value="$PROJECT_DIR$/../HackerRankSolutions/src/StringManipulations/SumitString.java" />
       </list>
     </option>
   </component>
@@ -172,22 +152,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.subsetAnd4">
-    <configuration default="false" name="AishAndXOR" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="AishAndXOR" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../HackerRankSolutions" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="HackerRankSolutions" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.SumitString">
     <configuration default="false" name="monkAndTasks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="monkAndTasks" />
@@ -236,6 +201,26 @@
     <configuration default="false" name="CompilerVersion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="StringManipulations.CompilerVersion" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../HackerRankSolutions" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="HackerRankSolutions" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="SumitString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="StringManipulations.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="StringManipulations.SumitString" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../HackerRankSolutions" />
@@ -453,19 +438,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.AishAndXOR" />
-      <item index="1" class="java.lang.String" itemvalue="Application.monkAndTasks" />
-      <item index="2" class="java.lang.String" itemvalue="Application.sumOfNumbers9" />
-      <item index="3" class="java.lang.String" itemvalue="Application.subsetAnd4" />
-      <item index="4" class="java.lang.String" itemvalue="Application.CompilerVersion" />
+      <item index="0" class="java.lang.String" itemvalue="Application.monkAndTasks" />
+      <item index="1" class="java.lang.String" itemvalue="Application.sumOfNumbers9" />
+      <item index="2" class="java.lang.String" itemvalue="Application.subsetAnd4" />
+      <item index="3" class="java.lang.String" itemvalue="Application.CompilerVersion" />
+      <item index="4" class="java.lang.String" itemvalue="Application.SumitString" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.subsetAnd4" />
-        <item index="1" class="java.lang.String" itemvalue="Application.CompilerVersion" />
-        <item index="2" class="java.lang.String" itemvalue="Application.monkAndTasks" />
-        <item index="3" class="java.lang.String" itemvalue="Application.sumOfNumbers9" />
-        <item index="4" class="java.lang.String" itemvalue="Application.AishAndXOR" />
+        <item index="0" class="java.lang.String" itemvalue="Application.SumitString" />
+        <item index="1" class="java.lang.String" itemvalue="Application.subsetAnd4" />
+        <item index="2" class="java.lang.String" itemvalue="Application.CompilerVersion" />
+        <item index="3" class="java.lang.String" itemvalue="Application.monkAndTasks" />
+        <item index="4" class="java.lang.String" itemvalue="Application.sumOfNumbers9" />
       </list>
     </recent_temporary>
   </component>
@@ -560,11 +545,19 @@
       <option name="project" value="LOCAL" />
       <updated>1512818129377</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Added 1 String manipulating problem.">
+      <created>1513016288898</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1513016288898</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="14" width="1305" height="718" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -581,7 +574,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24747866" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24747866" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -629,14 +622,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../HackerRankSolutions/src/subsetAnd4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="45" lean-forward="false" selection-start-line="21" selection-start-column="45" selection-end-line="21" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../HackerRankSolutions/src/monkAndTasks.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
@@ -998,6 +983,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="118">
           <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../HackerRankSolutions/src/StringManipulations/SumitString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="39" lean-forward="false" selection-start-line="0" selection-start-column="39" selection-end-line="0" selection-end-column="39" />
           <folding />
         </state>
       </provider>
